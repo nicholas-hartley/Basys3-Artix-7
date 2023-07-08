@@ -1,5 +1,2 @@
-*.txt
-*.log
-*.jou
-*.cache
-*.ip*
+*
+!**/*.v
