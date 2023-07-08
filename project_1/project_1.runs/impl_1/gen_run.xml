@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a35tcpg236-1" LaunchTime="1688599925">
+  <File Type="POSTROUTE-PHYSOPT-RQS-RPT" Name="postroute_physopt_report_qor_suggestions_0.rpt"/>
+  <File Type="ROUTE-RQS-RPT" Name="route_report_qor_suggestions_0.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS" Name="Seven_segment_LED_Display_Controller_postroute_physopted.rqs"/>
+  <File Type="ROUTE-RQS" Name="Seven_segment_LED_Display_Controller_routed.rqs"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <File Type="RDI-RDI" Name="Seven_segment_LED_Display_Controller.vdi"/>
+  <File Type="BG-DRC" Name="Seven_segment_LED_Display_Controller.drc"/>
+  <File Type="BG-BGN" Name="Seven_segment_LED_Display_Controller.bgn"/>
+  <File Type="BITSTR-SYSDEF" Name="Seven_segment_LED_Display_Controller.sysdef"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="Seven_segment_LED_Display_Controller.ltx"/>
+  <File Type="RBD_FILE" Name="Seven_segment_LED_Display_Controller.rbd"/>
+  <File Type="NPI_FILE" Name="Seven_segment_LED_Display_Controller.npi"/>
+  <File Type="RNPI_FILE" Name="Seven_segment_LED_Display_Controller.rnpi"/>
+  <File Type="CFI_FILE" Name="Seven_segment_LED_Display_Controller.cfi"/>
+  <File Type="RCFI_FILE" Name="Seven_segment_LED_Display_Controller.rcfi"/>
+  <File Type="PL-PDI-FILE" Name="Seven_segment_LED_Display_Controller_pld.pdi"/>
+  <File Type="BOOT-PDI-FILE" Name="Seven_segment_LED_Display_Controller_soc.pdi"/>
+  <File Type="PDI-FILE" Name="Seven_segment_LED_Display_Controller.pdi"/>
+  <File Type="BITSTR-MMI" Name="Seven_segment_LED_Display_Controller.mmi"/>
+  <File Type="BITSTR-BMM" Name="Seven_segment_LED_Display_Controller_bd.bmm"/>
+  <File Type="BITSTR-NKY" Name="Seven_segment_LED_Display_Controller.nky"/>
+  <File Type="BITSTR-RBT" Name="Seven_segment_LED_Display_Controller.rbt"/>
+  <File Type="BITSTR-MSK" Name="Seven_segment_LED_Display_Controller.msk"/>
+  <File Type="BG-BIN" Name="Seven_segment_LED_Display_Controller.bin"/>
+  <File Type="BG-BIT" Name="Seven_segment_LED_Display_Controller.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="tb_LEDs_bus_skew_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="tb_LEDs_bus_skew_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="tb_LEDs_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="tb_LEDs_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="tb_LEDs_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="tb_LEDs_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="Seven_segment_LED_Display_Controller_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="Seven_segment_LED_Display_Controller_postroute_physopt.dcp"/>
+  <File Type="ROUTE-RQS-PB" Name="Seven_segment_LED_Display_Controller_rqs_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="Seven_segment_LED_Display_Controller_bus_skew_routed.rpx"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="Seven_segment_LED_Display_Controller_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW" Name="Seven_segment_LED_Display_Controller_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="Seven_segment_LED_Display_Controller_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-SIMILARITY" Name="Seven_segment_LED_Display_Controller_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-TIMING-RPX" Name="Seven_segment_LED_Display_Controller_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-TIMING-PB" Name="Seven_segment_LED_Display_Controller_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="Seven_segment_LED_Display_Controller_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="Seven_segment_LED_Display_Controller_route_status.pb"/>
+  <File Type="ROUTE-STATUS" Name="Seven_segment_LED_Display_Controller_route_status.rpt"/>
+  <File Type="ROUTE-PWR-RPX" Name="Seven_segment_LED_Display_Controller_power_routed.rpx"/>
+  <File Type="ROUTE-PWR-SUM" Name="Seven_segment_LED_Display_Controller_power_summary_routed.pb"/>
+  <File Type="ROUTE-PWR" Name="Seven_segment_LED_Display_Controller_power_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="Seven_segment_LED_Display_Controller_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="Seven_segment_LED_Display_Controller_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="Seven_segment_LED_Display_Controller_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-RPX" Name="Seven_segment_LED_Display_Controller_drc_routed.rpx"/>
+  <File Type="ROUTE-DRC-PB" Name="Seven_segment_LED_Display_Controller_drc_routed.pb"/>
+  <File Type="ROUTE-DRC" Name="Seven_segment_LED_Display_Controller_drc_routed.rpt"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="Seven_segment_LED_Display_Controller_routed_bb.dcp"/>
+  <File Type="ROUTE-DCP" Name="Seven_segment_LED_Display_Controller_routed.dcp"/>
+  <File Type="ROUTE-ERROR-DCP" Name="Seven_segment_LED_Display_Controller_routed_error.dcp"/>
+  <File Type="PHYSOPT-TIMING" Name="Seven_segment_LED_Display_Controller_timing_summary_physopted.rpt"/>
+  <File Type="PHYSOPT-DRC" Name="Seven_segment_LED_Display_Controller_drc_physopted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="Seven_segment_LED_Display_Controller_physopt.dcp"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="Seven_segment_LED_Display_Controller_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="Seven_segment_LED_Display_Controller_postplace_pwropt.dcp"/>
+  <File Type="PLACE-RQA-PB" Name="Seven_segment_LED_Display_Controller_rqa_placed.pb"/>
+  <File Type="PLACE-TIMING" Name="Seven_segment_LED_Display_Controller_timing_summary_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="Seven_segment_LED_Display_Controller_incremental_reuse_pre_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="Seven_segment_LED_Display_Controller_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-CTRL" Name="Seven_segment_LED_Display_Controller_control_sets_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="Seven_segment_LED_Display_Controller_utilization_placed.pb"/>
+  <File Type="PLACE-UTIL" Name="Seven_segment_LED_Display_Controller_utilization_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="Seven_segment_LED_Display_Controller_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-IO" Name="Seven_segment_LED_Display_Controller_io_placed.rpt"/>
+  <File Type="PLACE-DCP" Name="Seven_segment_LED_Display_Controller_placed.dcp"/>
+  <File Type="PWROPT-TIMING" Name="Seven_segment_LED_Display_Controller_timing_summary_pwropted.rpt"/>
+  <File Type="PWROPT-DRC" Name="Seven_segment_LED_Display_Controller_drc_pwropted.rpt"/>
+  <File Type="PWROPT-DCP" Name="Seven_segment_LED_Display_Controller_pwropt.dcp"/>
+  <File Type="OPT-RQA-PB" Name="Seven_segment_LED_Display_Controller_rqa_opted.pb"/>
+  <File Type="OPT-TIMING" Name="Seven_segment_LED_Display_Controller_timing_summary_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="Seven_segment_LED_Display_Controller.hwdef"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="Seven_segment_LED_Display_Controller_methodology_drc_opted.rpt"/>
+  <File Type="OPT-DRC" Name="Seven_segment_LED_Display_Controller_drc_opted.rpt"/>
+  <File Type="OPT-DCP" Name="Seven_segment_LED_Display_Controller_opt.dcp"/>
+  <File Type="INIT-TIMING" Name="Seven_segment_LED_Display_Controller_timing_summary_init.rpt"/>
+  <File Type="REPORTS-TCL" Name="Seven_segment_LED_Display_Controller_reports.tcl"/>
+  <File Type="PA-TCL" Name="Seven_segment_LED_Display_Controller.tcl"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/Switch.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="Seven_segment_LED_Display_Controller"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1" RelGenDir="$PGENDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PPRDIR/../intro2fpga/Basys3_Master.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1" RelGenDir="$PGENDIR/utils_1">
+    <Filter Type="Utils"/>
+    <File Path="$PPRDIR/../intro2fpga/testing.tcl">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+        <Attr Name="UsedInSteps" Val="impl_1;WRITE_BITSTREAM;TCL.PRE"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/utils_1/imports/synth_1/test_LEDs.dcp">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedInSteps" Val="synth_1"/>
+        <Attr Name="AutoDcp" Val="1"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2023"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream" PreStepTclHook="$PPRDIR/../intro2fpga/testing.tcl">
+      <Option Id="BinFile">1</Option>
+    </Step>
+  </Strategy>
+</GenRun>

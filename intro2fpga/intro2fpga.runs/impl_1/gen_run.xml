@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a35tcpg236-1" LaunchTime="1688435456">
+  <File Type="POSTROUTE-PHYSOPT-RQS-RPT" Name="postroute_physopt_report_qor_suggestions_0.rpt"/>
+  <File Type="ROUTE-RQS-RPT" Name="route_report_qor_suggestions_0.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS" Name="testbench_andgate_postroute_physopted.rqs"/>
+  <File Type="ROUTE-RQS" Name="testbench_andgate_routed.rqs"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="testbench_andgate_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="testbench_andgate_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="testbench_andgate_routed_bb.dcp"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="testbench_andgate_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-DCP" Name="testbench_andgate_routed.dcp"/>
+  <File Type="ROUTE-DRC-RPX" Name="testbench_andgate_drc_routed.rpx"/>
+  <File Type="ROUTE-ERROR-DCP" Name="testbench_andgate_routed_error.dcp"/>
+  <File Type="PHYSOPT-TIMING" Name="testbench_andgate_timing_summary_physopted.rpt"/>
+  <File Type="PHYSOPT-DRC" Name="testbench_andgate_drc_physopted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="testbench_andgate_physopt.dcp"/>
+  <File Type="ROUTE-PWR" Name="testbench_andgate_power_routed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="testbench_andgate_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="testbench_andgate_postplace_pwropt.dcp"/>
+  <File Type="ROUTE-DRC-PB" Name="testbench_andgate_drc_routed.pb"/>
+  <File Type="PLACE-TIMING" Name="testbench_andgate_timing_summary_placed.rpt"/>
+  <File Type="PLACE-CTRL" Name="testbench_andgate_control_sets_placed.rpt"/>
+  <File Type="OPT-DRC" Name="testbench_andgate_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="testbench_andgate.hwdef"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="testbench_andgate_methodology_drc_opted.rpt"/>
+  <File Type="OPT-DCP" Name="testbench_andgate_opt.dcp"/>
+  <File Type="ROUTE-DRC" Name="testbench_andgate_drc_routed.rpt"/>
+  <File Type="PWROPT-TIMING" Name="testbench_andgate_timing_summary_pwropted.rpt"/>
+  <File Type="PA-TCL" Name="testbench_andgate.tcl"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="testbench_andgate_bus_skew_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="testbench_andgate_reports.tcl"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="testbench_andgate_bus_skew_routed.rpx"/>
+  <File Type="PWROPT-DRC" Name="testbench_andgate_drc_pwropted.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="testbench_andgate_incremental_reuse_placed.rpt"/>
+  <File Type="INIT-TIMING" Name="testbench_andgate_timing_summary_init.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="testbench_andgate_incremental_reuse_pre_placed.rpt"/>
+  <File Type="OPT-TIMING" Name="testbench_andgate_timing_summary_opted.rpt"/>
+  <File Type="PWROPT-DCP" Name="testbench_andgate_pwropt.dcp"/>
+  <File Type="PLACE-DCP" Name="testbench_andgate_placed.dcp"/>
+  <File Type="OPT-RQA-PB" Name="testbench_andgate_rqa_opted.pb"/>
+  <File Type="PLACE-IO" Name="testbench_andgate_io_placed.rpt"/>
+  <File Type="PLACE-RQA-PB" Name="testbench_andgate_rqa_placed.pb"/>
+  <File Type="PLACE-CLK" Name="testbench_andgate_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="testbench_andgate_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="testbench_andgate_utilization_placed.pb"/>
+  <File Type="ROUTE-PWR-SUM" Name="testbench_andgate_power_summary_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="testbench_andgate_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="testbench_andgate_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="testbench_andgate_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="testbench_andgate_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="testbench_andgate_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="testbench_andgate_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="testbench_andgate_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="testbench_andgate_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="testbench_andgate_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-RQS-PB" Name="testbench_andgate_rqs_routed.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="testbench_andgate_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="testbench_andgate_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="testbench_andgate_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="testbench_andgate_timing_summary_postroute_physopted.pb"/>
+  <File Type="RDI-RDI" Name="testbench_andgate.vdi"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="testbench_andgate_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="testbench_andgate_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="testbench_andgate_bus_skew_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="testbench_andgate_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BG-BIT" Name="testbench_andgate.bit"/>
+  <File Type="PDI-FILE" Name="testbench_andgate.pdi"/>
+  <File Type="BG-BIN" Name="testbench_andgate.bin"/>
+  <File Type="CFI_FILE" Name="testbench_andgate.cfi"/>
+  <File Type="BITSTR-MSK" Name="testbench_andgate.msk"/>
+  <File Type="RNPI_FILE" Name="testbench_andgate.rnpi"/>
+  <File Type="BITSTR-RBT" Name="testbench_andgate.rbt"/>
+  <File Type="NPI_FILE" Name="testbench_andgate.npi"/>
+  <File Type="BITSTR-NKY" Name="testbench_andgate.nky"/>
+  <File Type="RBD_FILE" Name="testbench_andgate.rbd"/>
+  <File Type="BITSTR-BMM" Name="testbench_andgate_bd.bmm"/>
+  <File Type="BITSTR-MMI" Name="testbench_andgate.mmi"/>
+  <File Type="BOOT-PDI-FILE" Name="testbench_andgate_soc.pdi"/>
+  <File Type="PL-PDI-FILE" Name="testbench_andgate_pld.pdi"/>
+  <File Type="RCFI_FILE" Name="testbench_andgate.rcfi"/>
+  <File Type="BG-BGN" Name="testbench_andgate.bgn"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="testbench_andgate.ltx"/>
+  <File Type="BITSTR-SYSDEF" Name="testbench_andgate.sysdef"/>
+  <File Type="BG-DRC" Name="testbench_andgate.drc"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/AndGate.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/testbench_andgate_FPGA.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="testbench_andgate"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1" RelGenDir="$PGENDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PPRDIR/Basys3_Master.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1" RelGenDir="$PGENDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2023">
+      <Desc>Default settings for Implementation.</Desc>
+    </StratHandle>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream" PreStepTclHook="$PPRDIR/testing.tcl">
+      <Option Id="BinFile">1</Option>
+    </Step>
+  </Strategy>
+</GenRun>
